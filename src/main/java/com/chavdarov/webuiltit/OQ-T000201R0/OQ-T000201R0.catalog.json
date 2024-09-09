@@ -1,0 +1,9 @@
+{
+  "id": "OQ-<<<TENANT_ID>>>",
+  "technicalName": "OQ",
+  "name": "OQ",
+  "description": "OQ tests",
+  "owner": "<<<TENANT_ID>>>",
+  "inputs": [],
+  "commands": []
+}
